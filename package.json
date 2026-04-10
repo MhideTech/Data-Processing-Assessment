@@ -1,0 +1,18 @@
+{
+  "name": "data-processing-assessment---0",
+  "version": "1.0.0",
+  "description": "Build a single GET endpoint that integrates with an external API and returns a processed response",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Backend",
+    "API"
+  ],
+  "author": "Professeur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
